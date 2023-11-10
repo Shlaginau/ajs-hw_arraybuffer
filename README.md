@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/e04b175pphopa6bm?svg=true)](https://ci.appveyor.com/project/Shlaginau/ajs-hw-arraybuffer)
+
 # Домашнее задание к лекции «`ArrayBuffer`»
 
 ## `ArrayBuffer`
